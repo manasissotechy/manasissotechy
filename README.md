@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manasissotechy
 - 👀 I’m interested in PHP, Ethical Hacking & Python
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on PHP Projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 
 - 🤜 Old Account - @mmtech117
 
